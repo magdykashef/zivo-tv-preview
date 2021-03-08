@@ -1,7 +1,7 @@
 {
   "name": "Zivo TV",
   "icons": [{
-      "src": ".android-icon-36x36.png",
+      "src": "android-icon-36x36.png",
       "sizes": "36x36",
       "type": "image/png",
       "density": "0.75"
@@ -31,7 +31,7 @@
       "density": "3.0"
     },
     {
-      "src": "/android-icon-192x192.png",
+      "src": "android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "density": "4.0"
