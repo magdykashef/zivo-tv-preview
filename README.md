@@ -24,5 +24,6 @@ This porject requires Node.js and npm. You should install them globally.
 ### Start App
 Run `npx live-server --port=4200`
 
+### [Click here to see demo](https://magdykashef.github.io/zivo-tv-preview/).
 
-###  This project was built with Angular 12
+####  This project was built with Angular 12
