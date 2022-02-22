@@ -1,0 +1,16 @@
+{
+  "name": "Zivo TV",
+  "short_name": "Zivo TV",
+  "icons": [{
+    "src": "assets/favicon/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }, {
+    "src": "assets/favicon/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }],
+  "theme_color": "#1b1b23",
+  "background_color": "var(--secondery-bg-color)",
+  "display": "standalone"
+}
